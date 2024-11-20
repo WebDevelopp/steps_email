@@ -127,7 +127,7 @@ function App() {
             onChange={handleLanguageChange}
           >
             <option value="en">English</option>
-            <option value="ar">Arabic</option>
+            <option value="ar">العربية</option>
           </select>
         </div>
 
